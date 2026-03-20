@@ -1,6 +1,5 @@
-# Sam 🌸
-Hello World 🌍 
-Welcome to my little corner of GitHub! Where business meets data and curiosity drives everything I do.  
+# Hello World 🌍 Sam Here 🌸
+ Welcome to my little corner of GitHub! Where business meets data and curiosity drives everything I do.  
 
 I’m on a journey of transitioning into **Business & Data Analytics**, building skills that turn raw data into meaningful insights and smarter decisions. Along the way, I’m constantly learning, experimenting, and growing.
 
